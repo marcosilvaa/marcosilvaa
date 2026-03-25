@@ -1,5 +1,4 @@
-# Marco Aurélio
-## Data Fullstack
+# Data Fullstack
 
 <img src=image.jpg>
 
