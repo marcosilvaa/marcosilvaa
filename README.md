@@ -17,6 +17,7 @@ I am now developing my own project, called Macro Vista, a platform to track ever
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/marcosilvaa/?locale=pt_BR)
 * [Medium](https://medium.com/@marcoasilvam)
+* [Resume](https://github.com/marcosilvaa/resume)
 
 # Projects:
 
