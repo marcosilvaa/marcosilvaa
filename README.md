@@ -1,16 +1,17 @@
-## Hi there 👋
+# Marco Aurélio
+## Data Fullstack
 
-<!--
-**marcosilvaa/marcosilvaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src=image.jpg>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+I'm a <strong>Data Scientist</strong> with 3+ years of experience and developing abilities as <strong>Data Engineer</strong> and <strong>Software Development</strong> to be a real Data Fullstack. 
+Proficient in <strong>Python</strong> and experienced with deep learning frameworks such as <strong>PyTorch</strong>, <strong>TensorFlow</strong>, and <strong>Scikit-learn</strong>. As a <strong>Data Analyst</strong> I manipulate data with <strong>Pandas</strong> and <strong>Numpy</strong>, as well some greate visualizations with <strong>Matplotlib</strong>, <strong>Seaborn</strong>, <strong>Plotly</strong> and for sure <strong>Streamlit</strong>, and for daily reports I can use <strong>QuartoMD</strong>. I also have exeperience as a Dev by developing systems based on <strong>Django</strong> and <strong>Fast API</strong>. 
+For orchestrated tasks <strong>Kestra</strong> is my choice! 
+</p>
+
+<p>
+I am now developing my own project, called Macro Vista, a platform to track every movement of Financial Market, there I will publish some of my quantitative analysis and all of my Cryptocurrency enthusiasm. 
+</p>
+
