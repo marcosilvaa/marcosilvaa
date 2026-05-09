@@ -1,4 +1,4 @@
-# Data Fullstack
+# Data Science
 
 <img src=image.jpg>
 
