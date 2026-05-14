@@ -1,7 +1,4 @@
 # Data Science
-
-<img src=image.jpg>
-
 ---
 
 <p align="left">
